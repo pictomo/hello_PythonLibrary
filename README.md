@@ -2,14 +2,17 @@
 
 ## useage
 `pip install pictomo`
-```python
+```python:test.py
 import pictomo
 pictomo.hello()
 ```
+``` shell:shell
+python test.py
+```
 
 ## deployment
-https://pypi.org/project/pictomo
-https://test.pypi.org/project/pictomo
+* https://pypi.org/project/pictomo
+* https://test.pypi.org/project/pictomo
 
 ## reference
 * [Python Packaging User Guide](https://packaging.python.org/ja/latest/guides/modernize-setup-py-project/)
